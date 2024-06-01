@@ -1,0 +1,39 @@
+# vbml 1.0.6
+
+type: channel
+
+title: Channel
+
+cover: https://raw.githubusercontent.com/omega-gg/vox/master/vox.png
+
+timezone: Europe/Paris
+
+source:
+    # Monday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
+    # Thursday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
+    # Friday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
+    # Saturday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
+    # Sunday
+    track:
+        duration: 24:00:00
+        source: https://omega.gg/vox
