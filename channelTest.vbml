@@ -16,24 +16,8 @@ source:
     # Tuesday
     track:
         duration: 24:00:00
-        source: https://omega.gg/vox
+        source: https://www.youtube.com/watch?v=X2Ouq-XgoKE
     # Wednesday
     track:
         duration: 24:00:00
-        source: https://omega.gg/vox
-    # Thursday
-    track:
-        duration: 24:00:00
-        source: https://omega.gg/vox
-    # Friday
-    track:
-        duration: 24:00:00
-        source: https://omega.gg/vox
-    # Saturday
-    track:
-        duration: 24:00:00
-        source: https://omega.gg/vox
-    # Sunday
-    track:
-        duration: 24:00:00
-        source: https://omega.gg/vox
+        source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
