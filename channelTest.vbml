@@ -12,12 +12,8 @@ source:
     # Monday
     track:
         duration: 24:00:00
-        source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
+        source: https://www.youtube.com/watch?v=f0QjM15gzgk
     # Tuesday
     track:
         duration: 24:00:00
-        source: https://www.youtube.com/watch?v=X2Ouq-XgoKE
-    # Wednesday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
+        source: https://www.youtube.com/watch?v=coShLkCriXc
