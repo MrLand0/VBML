@@ -15,13 +15,13 @@ timezone: Pacific
 source:
 	track:
 		type: hub
-		duration: 11:56
+		duration: 11:56:00
 		source: https://www.youtube.com/watch?v=nLvwMpoCuno&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=36
 	track:
 		type: hub
-		duration: 22:26
+		duration: 22:26:00
 		source: https://www.youtube.com/watch?v=3Q_JslqernA&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=34
 	track:
 		type: hub
-		duration: 26:20
+		duration: 26:20:00
 		source: https://www.youtube.com/watch?v=bCmxd3XdcY8&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=33
