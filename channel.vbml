@@ -1,0 +1,27 @@
+# vbml 1.0.5
+
+type: channel
+
+title: Gaming
+
+cover: https://yt3.googleusercontent.com/HgP3xFBeCqSbgeBXbgdptiwmV3b9uePXuLVBHTYD2-8OYdN6EiqJnkhVjz78WI0HClJux16D=s160-c-k-c0x00ffffff-no-rj
+
+author: Mr. Lando
+
+feed: https://www.youtube.com/@Mr_Lando
+
+timezone: Pacific
+
+source:
+	track:
+		type: hub
+		duration: 11:56
+		source: https://www.youtube.com/watch?v=nLvwMpoCuno&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=36
+	track:
+		type: hub
+		duration: 22:26
+		source: https://www.youtube.com/watch?v=3Q_JslqernA&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=34
+	track:
+		type: hub
+		duration: 26:20
+		source: https://www.youtube.com/watch?v=bCmxd3XdcY8&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=33
