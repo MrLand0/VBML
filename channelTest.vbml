@@ -11,6 +11,29 @@ timezone: Europe/Paris
 source:
     # Monday
     track:
-        duration: 1:00
-        source: https://www.youtube.com/watch?v=n5vjV4hwRxo
-
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Thursday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Friday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Saturday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Sunday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
