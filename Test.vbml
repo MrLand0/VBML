@@ -8,6 +8,8 @@ cover: https://steamuserimages-a.akamaihd.net/ugc/928170561771838392/66B07548EAE
 
 timezone: America/New_York
 
+feed: https://www.youtube.com/@Mr_Lando
+
 source:
     track:
         type: hub
