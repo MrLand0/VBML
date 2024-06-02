@@ -18,11 +18,3 @@ source:
             track:
                 duration: 8:04
                 source: https://www.youtube.com/watch?v=gIC6USk1sDk
-    track:
-        type: hub
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
-    track:
-        type: hub
-        duration: 14:03:00
-        source: https://www.youtube.com/watch?v=ce92akpnG_Y&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=2
