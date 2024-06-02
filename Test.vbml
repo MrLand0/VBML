@@ -6,7 +6,7 @@ title: Vice City radio: Flash FM
 
 cover: https://steamuserimages-a.akamaihd.net/ugc/928170561771838392/66B07548EAE824581DBBF43D65843D134DFC9D6C/
 
-timezone: America/New_York
+timezone: Pacific
 
 feed: https://www.youtube.com/@Mr_Lando
 
@@ -17,7 +17,7 @@ source:
         source: https://www.youtube.com/watch?v=gIC6USk1sDk
     track:
         type: hub
-        duration: 10:27:00
+        duration: 10:32:00
         source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
     track:
         type: hub
