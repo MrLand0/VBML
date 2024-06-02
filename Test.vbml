@@ -13,13 +13,13 @@ feed: https://www.youtube.com/@Mr_Lando
 source:
     track:
         type: hub
-        duration: 00:17
+        duration: 00:17:00
         source: https://www.youtube.com/watch?v=gIC6USk1sDk
     track:
         type: hub
-        duration: 168:00:00
+        duration: 10:27:00
         source: https://www.youtube.com/watch?v=8ZCV_bBsZMI&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus
     track:
         type: hub
-        duration: 168:00:00
-        source: https://www.youtube.com/watch?v=DGxJHfs8uhU&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=3
+        duration: 14:03:00
+        source: https://www.youtube.com/watch?v=ce92akpnG_Y&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=2
