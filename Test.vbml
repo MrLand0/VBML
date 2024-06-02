@@ -1,0 +1,41 @@
+# vbml 1.0.5
+
+type: channel
+
+title: Gaming
+
+cover: https://yt3.googleusercontent.com/HgP3xFBeCqSbgeBXbgdptiwmV3b9uePXuLVBHTYD2-8OYdN6EiqJnkhVjz78WI0HClJux16D=s160-c-k-c0x00ffffff-no-rj
+
+author: Mr. Lando
+
+feed: https://www.youtube.com/@Mr_Lando
+
+source:
+    # Monday
+    track:
+        duration: 24:00:00
+        source: https://rr2---sn-vgqsrnzz.googlevideo.com/videoplayback?expire=1717316466&ei=EtdbZviMIYzUsfIPjfqT-AQ&ip=2604:3d08:ba7d:9920:daf:2872:1969:1ed5&id=o-AGQ1VjnR_GwO3HctU2m9WtptuqFJbFMyIrG9O7uNCJA-&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ==&vprv=1&svpuc=1&mime=video/mp4&rqh=1&gir=yes&clen=1013550&ratebypass=yes&dur=16.161&lmt=1671234196683148&c=ANDROID_TESTSUITE&txp=6219224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,vprv,svpuc,mime,rqh,gir,clen,ratebypass,dur,lmt&sig=AJfQdSswRgIhAIbpeb-AyeDYHIyRe4CTs8UkWOHMa0TMdakKptTXznFZAiEAs-D9XfPCl54NG4_qkN2cOHaTVMIWwo-RKKz8jAtFQjU=&cm2rm=sn-ni5f-t8gz7s,sn-nx5zl7e&fexp=24350477&req_id=896b95b69e33a3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&mh=wD&mip=50.69.26.22&mm=34&mn=sn-vgqsrnzz&ms=ltu&mt=1717294581&mv=m&mvi=2&pl=22&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgZ59i35VBwtdLgwjSnfHGX5qZeB4czbGthYbfElTHJsYCIQDhqRhVrVjXHUGBiCOdtg7bcF6R_WxBwcCg9Nkb98ofzA==
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Thursday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Friday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Saturday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+    # Sunday
+    track:
+        duration: 24:00:00
+        source: https://www.youtube.com/watch?v=gIC6USk1sDk
