@@ -1,41 +1,15 @@
-# vbml 1.0.5
+# vbml 1.0.6
 
 type: channel
 
-title: Gaming
+title: Vice City radio: Flash FM
 
-cover: https://yt3.googleusercontent.com/HgP3xFBeCqSbgeBXbgdptiwmV3b9uePXuLVBHTYD2-8OYdN6EiqJnkhVjz78WI0HClJux16D=s160-c-k-c0x00ffffff-no-rj
+cover: https://steamuserimages-a.akamaihd.net/ugc/928170561771838392/66B07548EAE824581DBBF43D65843D134DFC9D6C/
 
-author: Mr. Lando
-
-feed: https://www.youtube.com/@Mr_Lando
+timezone: America/New_York
 
 source:
-    # Monday
     track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?feature=shared&v=fXswB6kqN7Q
-    # Tuesday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=gIC6USk1sDk
-    # Wednesday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=gIC6USk1sDk
-    # Thursday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=gIC6USk1sDk
-    # Friday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=gIC6USk1sDk
-    # Saturday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?feature=shared&v=fXswB6kqN7Q
-    # Sunday
-    track:
-        duration: 24:00:00
-        source: https://www.youtube.com/watch?v=gIC6USk1sDk
+        type: hub
+        duration: 168:00:00
+        source: https://www.youtube.com/watch?v=iy3zpbeEKlc
