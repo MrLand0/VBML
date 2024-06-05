@@ -1,0 +1,82 @@
+# vbml 1.0.6
+
+type: channel
+
+title: National Geogrphic
+
+cover: https://wallpapercave.com/wp/wp8223158.jpg
+
+timezone: Europe/Paris
+
+source:
+    # Monday
+    track:
+        type:hub
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Thursday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Friday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Saturday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Sunday
+    track:
+        duration: 24:00:00
+        source:
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
