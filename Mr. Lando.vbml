@@ -1,0 +1,115 @@
+# vbml 1.0.6
+
+type: channel
+
+title: Mr. Lando Live
+
+cover: https://yt3.googleusercontent.com/HgP3xFBeCqSbgeBXbgdptiwmV3b9uePXuLVBHTYD2-8OYdN6EiqJnkhVjz78WI0HClJux16D=s176-c-k-c0x00ffffff-no-rj
+
+timezone: Europe/Paris
+
+source:
+    # Monday
+    track:
+        type:hub
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 11:56
+                source: https://www.youtube.com/watch?v=nLvwMpoCuno&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=35
+            track:
+                duration: 22:26
+                source: https://www.youtube.com/watch?v=3Q_JslqernA&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=34
+            track:
+                duration: 26:20
+                source: https://www.youtube.com/watch?v=bCmxd3XdcY8&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=33
+            track:
+                duration: 50:04
+                source: https://www.youtube.com/watch?v=tn6_W1gNF68&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=32
+            track:
+                duration: 4:50
+                source: https://www.youtube.com/watch?v=Eny0mHnLdJY&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=31
+            track:
+                duration: 44:32
+                source: https://www.youtube.com/watch?v=aLetJ7H1skg&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=30
+            track:
+                duration: 38:14
+                source: https://www.youtube.com/watch?v=3zw6_xE-zF8&list=PLTeNnhVIRiJ5kYBLoaIv2Vc8PPlyFYpus&index=29
+    # Tuesday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Wednesday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Thursday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Friday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Saturday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
+    # Sunday
+    track:
+        duration: 24:00:00
+        source:
+            hub:
+                duration: 23:16:04
+                source: https://wallpapercave.com/wp/wp8223158.jpg
+            track:
+                duration: 16:08
+                source: https://www.youtube.com/watch?v=VeedBz6zMBs
+            track:
+                duration: 27:48
+                source: https://www.youtube.com/watch?v=KBTHfLo0JmQ
