@@ -12,12 +12,9 @@ source:
   # Monday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -359,12 +356,9 @@ source:
   # Tuesday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -706,12 +700,9 @@ source:
   # Wednesday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -1053,12 +1044,9 @@ source:
   # Thursday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -1400,12 +1388,9 @@ source:
   # Friday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -1747,12 +1732,9 @@ source:
   # Saturday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
@@ -2094,12 +2076,9 @@ source:
   # Sunday
   track:
     type: hub
-    duration: 1:06:21:35
+    duration: 24:00:00
     source:
         hub:
-          duration: 1:17:40
-          source: https://www.youtube.com/watch?v=8mKkW6fq86M
-    track:
           duration: 11:36
           source: https://www.youtube.com/watch?v=5EEMh-9bjaU
     track:
