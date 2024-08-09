@@ -12,1064 +12,2429 @@ source:
   # Monday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Tuesday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Wednesday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Thursday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Friday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Saturday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
   # Sunday
   track:
     type: hub
-    duration: 23:16:04
+    duration: 1:06:21:35
     source:
         hub:
-            duration: 1:17:40
-            source: https://www.youtube.com/watch?v=8mKkW6fq86M
-        track:
-            duration: 11:36
-            source: https://www.youtube.com/watch?v=5EEMh-9bjaU
-        track:
-            duration: 10:28
-            source: https://www.youtube.com/watch?v=pRx6cRLMeP8
-        track:
-            duration: 17:25
-            source: https://www.youtube.com/watch?v=IjatJVwGTuI
-        track:
-            duration: 19:37
-            source: https://www.youtube.com/watch?v=np4B7epnq8I
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=il1dcsco-E0
-        track:
-            duration: 18:51
-            source: https://www.youtube.com/watch?v=1TVjo6yTBRY
-        track:
-            duration: 21:14
-            source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
-        track:
-            duration: 36:45
-            source: https://www.youtube.com/watch?v=vevg4dSd-xo
-        track:
-            duration: 13:11
-            source: https://www.youtube.com/watch?v=3DDqsnnByCM
-        track:
-            duration: 20:06
-            source: https://www.youtube.com/watch?v=fjMC9VDX6jk
-        track:
-            duration: 17:55
-            source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=HgX13b5kYX4
-        track:
-            duration: 18:46
-            source: https://www.youtube.com/watch?v=hBKUWzLDC94
-        track:
-            duration: 15:22
-            source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
-        track:
-            duration: 14:06
-            source: https://www.youtube.com/watch?v=TXeHPjO_FXM
-        track:
-            duration: 26:05
-            source: https://www.youtube.com/watch?v=W3RhLLA0grw
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
-        track:
-            duration: 9:22
-            source: https://www.youtube.com/watch?v=AL5NwfXRXQw
-        track:
-            duration: 15:31
-            source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
-        track:
-            duration: 16:16
-            source: https://www.youtube.com/watch?v=9iLhPVygRMY
-        track:
-            duration: 15:46
-            source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
-        track:
-            duration: 17:04
-            source: https://www.youtube.com/watch?v=sEA8lgCG640
-        track:
-            duration: 15:12
-            source: https://www.youtube.com/watch?v=OdVaqeiwxI0
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=d_arPrIIN-I
-        track:
-            duration: 14:46
-            source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
-        track:
-            duration: 14:31
-            source: https://www.youtube.com/watch?v=FIJde-07M1A
-        track:
-            duration: 18:45
-            source: https://www.youtube.com/watch?v=PC8aWza_EgQ
-        track:
-            duration: 20:04
-            source: https://www.youtube.com/watch?v=7cCkPl5hobE
-        track:
-            duration: 19:57
-            source: https://www.youtube.com/watch?v=uJawzieYv_E
-        track:
-            duration: 20:23
-            source: https://www.youtube.com/watch?v=uuytsoX9e6Q
-        track:
-            duration: 15:57
-            source: https://www.youtube.com/watch?v=6cgawuBiTBA
-        track:
-            duration: 16:26
-            source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
-        track:
-            duration: 17:45
-            source: https://www.youtube.com/watch?v=PL6a7VgBCoc
-        track:
-            duration: 14:52
-            source: https://www.youtube.com/watch?v=VN6TA9Saeno
-        track:
-            duration: 11:34
-            source: https://www.youtube.com/watch?v=NoDkItE0KMU
-        track:
-            duration: 20:02
-            source: https://www.youtube.com/watch?v=655po97a4ds
-        track:
-            duration: 17:02
-            source: https://www.youtube.com/watch?v=hnRTvyHEBXw
-        track:
-            duration: 15:28
-            source: https://www.youtube.com/watch?v=z76QnrISZOk
-        track:
-            duration: 16:15
-            source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
-        track:
-            duration: 12:06
-            source: https://www.youtube.com/watch?v=V_97drvt9w0
-        track:
-            duration: 13:49
-            source: https://www.youtube.com/watch?v=r0qk3L7K41c
-        track:
-            duration: 13:18
-            source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
-        track:
-            duration: 13:46
-            source: https://www.youtube.com/watch?v=Ds0MVoCR994
-        track:
-            duration: 16:11
-            source: https://www.youtube.com/watch?v=1WSVv8A6jmY
-        track:
-            duration: 15:49
-            source: https://www.youtube.com/watch?v=NWfsSxlw0xE
-        track:
-            duration: 13:17
-            source: https://www.youtube.com/watch?v=wtr7OxtoxcE
-        track:
-            duration: 13:58
-            source: https://www.youtube.com/watch?v=d1cnEOC4jaI
-        track:
-            duration: 16:18
-            source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+          duration: 1:17:40
+          source: https://www.youtube.com/watch?v=8mKkW6fq86M
+    track:
+          duration: 11:36
+          source: https://www.youtube.com/watch?v=5EEMh-9bjaU
+    track:
+          duration: 10:28
+          source: https://www.youtube.com/watch?v=pRx6cRLMeP8
+    track:
+          duration: 17:25
+          source: https://www.youtube.com/watch?v=IjatJVwGTuI
+    track:
+          duration: 19:37
+          source: https://www.youtube.com/watch?v=np4B7epnq8I
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=il1dcsco-E0
+    track:
+          duration: 18:51
+          source: https://www.youtube.com/watch?v=1TVjo6yTBRY
+    track:
+          duration: 21:14
+          source: https://www.youtube.com/watch?v=Ij4dKDkm9lo
+    track:
+          duration: 36:45
+          source: https://www.youtube.com/watch?v=vevg4dSd-xo
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=3DDqsnnByCM
+    track:
+          duration: 20:06
+          source: https://www.youtube.com/watch?v=fjMC9VDX6jk
+    track:
+          duration: 17:55
+          source: https://www.youtube.com/watch?v=BlGzVuZ7yV8
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=HgX13b5kYX4
+    track:
+          duration: 18:46
+          source: https://www.youtube.com/watch?v=hBKUWzLDC94
+    track:
+          duration: 15:22
+          source: https://www.youtube.com/watch?v=j5ZZCwzNbmk
+    track:
+          duration: 14:06
+          source: https://www.youtube.com/watch?v=TXeHPjO_FXM
+    track:
+          duration: 26:05
+          source: https://www.youtube.com/watch?v=W3RhLLA0grw
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=Q-YVfpt2SPg
+    track:
+          duration: 9:22
+          source: https://www.youtube.com/watch?v=AL5NwfXRXQw
+    track:
+          duration: 15:31
+          source: https://www.youtube.com/watch?v=4Vn6Rux4D9U
+    track:
+          duration: 16:16
+          source: https://www.youtube.com/watch?v=9iLhPVygRMY
+    track:
+          duration: 15:46
+          source: https://www.youtube.com/watch?v=9RnxDIJDV5Q
+    track:
+          duration: 17:04
+          source: https://www.youtube.com/watch?v=sEA8lgCG640
+    track:
+          duration: 15:12
+          source: https://www.youtube.com/watch?v=OdVaqeiwxI0
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=d_arPrIIN-I
+    track:
+          duration: 14:46
+          source: https://www.youtube.com/watch?v=SPc-kGf2ZfI
+    track:
+          duration: 14:31
+          source: https://www.youtube.com/watch?v=FIJde-07M1A
+    track:
+          duration: 18:45
+          source: https://www.youtube.com/watch?v=PC8aWza_EgQ
+    track:
+          duration: 20:04
+          source: https://www.youtube.com/watch?v=7cCkPl5hobE
+    track:
+          duration: 19:57
+          source: https://www.youtube.com/watch?v=uJawzieYv_E
+    track:
+          duration: 20:23
+          source: https://www.youtube.com/watch?v=uuytsoX9e6Q
+    track:
+          duration: 15:57
+          source: https://www.youtube.com/watch?v=6cgawuBiTBA
+    track:
+          duration: 16:26
+          source: https://www.youtube.com/watch?v=-ZJjW-Rqdyk
+    track:
+          duration: 17:45
+          source: https://www.youtube.com/watch?v=PL6a7VgBCoc
+    track:
+          duration: 14:52
+          source: https://www.youtube.com/watch?v=VN6TA9Saeno
+    track:
+          duration: 11:34
+          source: https://www.youtube.com/watch?v=NoDkItE0KMU
+    track:
+          duration: 20:02
+          source: https://www.youtube.com/watch?v=655po97a4ds
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=hnRTvyHEBXw
+    track:
+          duration: 15:28
+          source: https://www.youtube.com/watch?v=z76QnrISZOk
+    track:
+          duration: 16:15
+          source: https://www.youtube.com/watch?v=ksP9XMwo3Q8
+    track:
+          duration: 12:06
+          source: https://www.youtube.com/watch?v=V_97drvt9w0
+    track:
+          duration: 13:49
+          source: https://www.youtube.com/watch?v=r0qk3L7K41c
+    track:
+          duration: 13:18
+          source: https://www.youtube.com/watch?v=nLNKSI7ygKQ
+    track:
+          duration: 13:46
+          source: https://www.youtube.com/watch?v=Ds0MVoCR994
+    track:
+          duration: 16:11
+          source: https://www.youtube.com/watch?v=1WSVv8A6jmY
+    track:
+          duration: 15:49
+          source: https://www.youtube.com/watch?v=NWfsSxlw0xE
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=wtr7OxtoxcE
+    track:
+          duration: 13:58
+          source: https://www.youtube.com/watch?v=d1cnEOC4jaI
+    track:
+          duration: 16:18
+          source: https://www.youtube.com/watch?v=BgMsaRjk8XQ
+    track:
+          duration: 10:09
+          source: https://www.youtube.com/watch?v=BbKlFqjTVt8
+    track:
+          duration: 11:17
+          source: https://www.youtube.com/watch?v=tzpAmn-bNTw
+    track:
+          duration: 12:11
+          source: https://www.youtube.com/watch?v=TwFoF08mXxk
+    track:
+          duration: 13:14
+          source: https://www.youtube.com/watch?v=AERoRFXjGHo
+    track:
+          duration: 14:40
+          source: https://www.youtube.com/watch?v=e6yUJmtHxTM
+    track:
+          duration: 16:01
+          source: https://www.youtube.com/watch?v=vTjZJianWIo
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=_osZsZrfqfg
+    track:
+          duration: 19:28
+          source: https://www.youtube.com/watch?v=Jm5zt-n_2vU
+    track:
+          duration: 13:10
+          source: https://www.youtube.com/watch?v=CkExExTa5YQ
+    track:
+          duration: 12:53
+          source: https://www.youtube.com/watch?v=vxjL1VAEWhQ
+    track:
+          duration: 14:44
+          source: https://www.youtube.com/watch?v=WXrESbfqsKc
+    track:
+          duration: 17:02
+          source: https://www.youtube.com/watch?v=LeJoMkZo-9A
+    track:
+          duration: 12:49
+          source: https://www.youtube.com/watch?v=MR9sSNIwD9k
+    track:
+          duration: 17:54
+          source: https://www.youtube.com/watch?v=AisamuW3vSE
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=DXq9c9GrYcI
+    track:
+          duration: 13:26
+          source: https://www.youtube.com/watch?v=oUGVGefEop4
+    track:
+          duration: 14:19
+          source: https://www.youtube.com/watch?v=GOWX45FqMk4
+    track:
+          duration: 15:24
+          source: https://www.youtube.com/watch?v=sB7fsk3s-xw
+    track:
+          duration: 15:23
+          source: https://www.youtube.com/watch?v=GMhWnE1Kbpo
+    track:
+          duration: 8:09
+          source: https://www.youtube.com/watch?v=Z5NXbQIG87g
+    track:
+          duration: 14:38
+          source: https://www.youtube.com/watch?v=rwuiN1DoTWw
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=cyoFA4Bn8Sg
+    track:
+          duration: 12:42
+          source: https://www.youtube.com/watch?v=ItmBF7L7m3s
+    track:
+          duration: 15:06
+          source: https://www.youtube.com/watch?v=plja7qSEBNo
+    track:
+          duration: 11:11
+          source: https://www.youtube.com/watch?v=dUy4s0FpfY8
+    track:
+          duration: 11:54
+          source: https://www.youtube.com/watch?v=ot1qna4y9mo
+    track:
+          duration: 15:04
+          source: https://www.youtube.com/watch?v=RYdUP7dz6iQ
+    track:
+          duration: 13:16
+          source: https://www.youtube.com/watch?v=bP-XXOpUQ68
+    track:
+          duration: 14:26
+          source: https://www.youtube.com/watch?v=1DrR-oArndQ
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=EimaXSLqEZM
+    track:
+          duration: 16:44
+          source: https://www.youtube.com/watch?v=l2opCRXunxs
+    track:
+          duration: 15:29
+          source: https://www.youtube.com/watch?v=dr0GAQSXrz0
+    track:
+          duration: 13:34
+          source: https://www.youtube.com/watch?v=mqEuvdDslsw
+    track:
+          duration: 53:20
+          source: https://www.youtube.com/watch?v=iJkxvbditlI
+    track:
+          duration: 18:39
+          source: https://www.youtube.com/watch?v=x3yark6rPNs
+    track:
+          duration: 11:45
+          source: https://www.youtube.com/watch?v=mF9tp7-3H9s
+    track:
+          duration: 12:55
+          source: https://www.youtube.com/watch?v=dDQAgdm33sk
+    track:
+          duration: 11:56
+          source: https://www.youtube.com/watch?v=qwiWbMA3dTo
+    track:
+          duration: 10:42
+          source: https://www.youtube.com/watch?v=nRMqPJsR3Hc
+    track:
+          duration: 13:17
+          source: https://www.youtube.com/watch?v=c3GuJQBqmhI
+    track:
+          duration: 12:29
+          source: https://www.youtube.com/watch?v=FuGxoXB9zKA
+    track:
+          duration: 13:11
+          source: https://www.youtube.com/watch?v=M9_9zxglvz0
+    track:
+          duration: 19:56
+          source: https://www.youtube.com/watch?v=Q_i4ywjXvRk
+    track:
+          duration: 15:30
+          source: https://www.youtube.com/watch?v=uK-tk0HGVB4
+    track:
+          duration: 14:10
+          source: https://www.youtube.com/watch?v=fQa-ncu7vBI
+    track:
+          duration: 17:37
+          source: https://www.youtube.com/watch?v=agabwwoUgek
+    track:
+          duration: 15:18
+          source: https://www.youtube.com/watch?v=BPU2laK5pZw
+    track:
+          duration: 15:52
+          source: https://www.youtube.com/watch?v=aoJ9XGA0zec
+    track:
+          duration: 16:00
+          source: https://www.youtube.com/watch?v=d4auBw4vNCs
+    track:
+          duration: 14:36
+          source: https://www.youtube.com/watch?v=pPmQVI28glk
+    track:
+          duration: 18:13
+          source: https://www.youtube.com/watch?v=_FS6nTLxNbY
+    track:
+          duration: 14:50
+          source: https://www.youtube.com/watch?v=O2RfjKKRHc4
+    track:
+          duration: 22:34
+          source: https://www.youtube.com/watch?v=JDxLvea8RzY
+    track:
+          duration: 17:43
+          source: https://www.youtube.com/watch?v=yaLSspMaFvo
+    track:
+          duration: 10:22
+          source: https://www.youtube.com/watch?v=LCjD4l8UWd8
+    track:
+          duration: 8:56
+          source: https://www.youtube.com/watch?v=_QqWIgrjNiY
+    track:
+          duration: 12:52
+          source: https://www.youtube.com/watch?v=G4F0lEm73uk
+    track:
+          duration: 12:58
+          source: https://www.youtube.com/watch?v=pSWeN1hZtwc
+    track:
+          duration: 11:30
+          source: https://www.youtube.com/watch?v=Hx0fOgGs_V0
+    track:
+          duration: 14:27
+          source: https://www.youtube.com/watch?v=yEBEGdRGnKY
+    track:
+          duration: 12:44
+          source: https://www.youtube.com/watch?v=0VvGqRUzxqY
+    track:
+          duration: 13:35
+          source: https://www.youtube.com/watch?v=isahXXHwN0I
+    track:
+          duration: 12:16
+          source: https://www.youtube.com/watch?v=avvncJQj2ic
+    track:
+          duration: 4:32
+          source: https://www.youtube.com/watch?v=g8vpQ5ftcRk
+    track:
+          duration: 8:51
+          source: https://www.youtube.com/watch?v=gYvwxxxr3tE
