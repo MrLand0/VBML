@@ -1,13 +1,67 @@
 # vbml 1.0.6
 
-type: live
+type: channel
 
-source: https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+title: NHL Weird
 
-title: NHL Weird Live
+cover: https://wallpapercave.com/wp/wJknW4w.jpg
 
-cover: https://i.ytimg.com/vi/UedTcufyrHc/maxresdefault_live.jpg
+timezone: Europe/Paris
 
-author: Mr. Lando
-
-feed: https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+source:
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+  # Monday
+  track:
+    type: hub
+    duration: 24:00:00
+    source:
+        hub:
+          duration: 24:00:00
+          https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
