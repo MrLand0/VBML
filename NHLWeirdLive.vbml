@@ -1,0 +1,13 @@
+# vbml 1.0.6
+
+type: live
+
+source: https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
+
+title: NHL Weird Live
+
+cover: https://i.ytimg.com/vi/UedTcufyrHc/maxresdefault_live.jpg
+
+author: Mr. Lando
+
+feed: https://raw.githubusercontent.com/MrLand0/VBML/main/NHLWeirdFeed.vbml
